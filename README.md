@@ -1,2 +1,2 @@
 # Crypto-Crazy
-I used to; RxSwift, VMMV, Codable, Web service
+I used to; RxSwift, MVVM, Codable, Web service
